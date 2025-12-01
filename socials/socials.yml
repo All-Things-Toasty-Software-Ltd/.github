@@ -1,0 +1,29 @@
+socials:
+  github:
+    name: "GitHub"
+    url: "https://github.com/All-Things-Toasty-Software"
+  twitter:
+    name: "Twitter"
+    url: "https://twitter.com/ToastySoftware"
+  bsky:
+    name: "Bluesky"
+    url: "https://bsky.app/profile/toastysoftware.co.uk"
+  twitch:
+    name: "Twitch"
+    url: "https://twitch.tv/toastysoftware"
+  instagram:
+    name: "Instagram"
+    url: "https://instagram.com/toastysoftware"
+  pinterest:
+    name: "Pinterest"
+    url: "https://www.pinterest.co.uk/toastysoftware"
+  youtube:
+    name: "YouTube"
+    url: "https://youtube.com/@ToastySoftware"
+  spotify:
+    name: "Spotify"
+    url: "https://open.spotify.com/user/31q57dyn7j4s5xs252a3gb7r7xqq?si=90eab9fb20d1485a"
+  linkedin:
+    name: "LinkedIn"
+    url: "https://www.linkedin.com/company/toastysoftware/"
+# yaml-language-server: $schema=https://raw.githubusercontent.com/All-Things-Toasty-Software/.github/main/socials/socials.schema.json
